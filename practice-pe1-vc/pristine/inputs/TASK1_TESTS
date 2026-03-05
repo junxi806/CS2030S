@@ -1,0 +1,7 @@
+1 Correctly handles arrival of tour guides
+2 Correctly handles arrival of visitors
+3 Correctly handles departure of tour guides if no visitors to process
+4 Correctly handles turning visitors away (silently) when queue is full
+5 Correctly handles multiple tour guides
+6 Correctly handles exception when attraction is full
+7 General test case

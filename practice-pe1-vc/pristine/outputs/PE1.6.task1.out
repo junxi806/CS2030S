@@ -1,0 +1,11 @@
+1.000 V1000 arrived at VC: [ 0:Q0 [ ], 1:Q1 [ ], 2:Q2 [ ] ]
+2.000 TG123 arrived at VC: [ 0:Q0 [ V1000 ], 1:Q1 [ ], 2:Q2 [ ] ]
+2.100 TG123 picked up V1000 at VC: [ 0:Q0 [ ], 1:Q1 [ ], 2:Q2 [ ] ]
+2.200 V1001 arrived at VC: [ 0:Q0 [ ], 1:Q1 [ ], 2:Q2 [ ] ]
+2.300 V1002 arrived at VC: [ 0:Q0 [ ], 1:Q1 [ V1001 ], 2:Q2 [ ] ]
+2.400 V1003 arrived at VC: [ 0:Q0 [ ], 1:Q1 [ V1001 ], 2:Q2 [ V1002 ] ]
+2.500 V1000 admitted VC: [ 0:Q0 [ ], 1:Q1 [ V1001 V1003 ], 2:Q2 [ V1002 ] ]
+2.600 TG123 picked up V1002 at VC: [ 0:Q0 [ ], 1:Q1 [ V1001 V1003 ], 2:Q2 [ ] ]
+2.700 V1004 arrived at VC: [ 0:Q0 [ ], 1:Q1 [ V1001 V1003 ], 2:Q2 [ ] ]
+2.800 V1002 admitted VC: [ 0:Q0 [ ], 1:Q1 [ V1001 V1003 ], 2:Q2 [ ] ]
+2.900 Attraction capacity of 2 reached.
